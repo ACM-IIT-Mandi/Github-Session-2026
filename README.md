@@ -1,1 +1,2 @@
-# Git & Github Session for Batch 2026 IIT Mandi.
+Hi I am Harsh My roll no is B26193
+
